@@ -5,8 +5,8 @@ library(dplyr)
 #### USER SETTTINGS ####
 
 # directories
-dir_data <- "D:/Documents/Studium/Promotion/EcoMigRip/RipDiv/Paper/Limnology&Oceanography/Submission/DATA pangea/multivariate"
-dir_out <- here(dir_data, "output")
+dir_data <- "..."
+dir_out <- "..."
 
 # set parameter for community data analyses
 i.param <- 1
